@@ -1,0 +1,16 @@
+{
+    "lang": "es",
+    "bNightMode": false,
+    "nTriesTentacruel": 4,
+    "nTriesLuvDisc": 20,
+    "nApagarLuvDisc": 250,
+    "nTriesMagikarp": 41,
+    "nApagarMagikarp": 450,
+    "nTriesTeselia": 40,
+    "nApagarTeselia": 550,
+    "UpKey": "up",
+    "DownKey": "down",
+    "RightKey": "right",
+    "LeftKey": "left",
+    "UbicacionTesseract": "C:\\Program Files\\Tesseract-OCR\\tesseract"
+}
